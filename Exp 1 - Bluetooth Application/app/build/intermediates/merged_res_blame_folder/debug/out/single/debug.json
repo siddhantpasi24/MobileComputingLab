@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.santossingh.bluetoothfiletransfer.app-merged_res-7:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.santossingh.bluetoothfiletransfer.app-main-9:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.santossingh.bluetoothfiletransfer.app-merged_res-7:/menu_menu_main.xml.flat",
+        "source": "com.santossingh.bluetoothfiletransfer.app-main-9:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.santossingh.bluetoothfiletransfer.app-merged_res-7:/layout_activity_main.xml.flat",
+        "source": "com.santossingh.bluetoothfiletransfer.app-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.santossingh.bluetoothfiletransfer.app-merged_res-7:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.santossingh.bluetoothfiletransfer.app-main-9:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.santossingh.bluetoothfiletransfer.app-merged_res-7:/layout_dailoglayout.xml.flat",
+        "source": "com.santossingh.bluetoothfiletransfer.app-main-9:/layout/dailoglayout.xml"
+    },
+    {
+        "merged": "com.santossingh.bluetoothfiletransfer.app-merged_res-7:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.santossingh.bluetoothfiletransfer.app-main-9:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.santossingh.bluetoothfiletransfer.app-merged_res-7:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.santossingh.bluetoothfiletransfer.app-main-9:/mipmap-xhdpi/ic_launcher.png"
+    }
+]
